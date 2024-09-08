@@ -18,7 +18,7 @@ const Hero = () => {
         <h1 className='text-4xl font-bold'>
             I'm {" "}
             <span className='text-transparent bg-clip-text bg-gradient-to-r from-green-400 to-blue-500'>Samuel Akinola Eluyefa</span>
-            , Full-Stack Developer
+            , Full-Stack  Javascript Developer
         </h1>
         <p className='mt-4 text-lg text-gray-300'>
             I specialize in building modern and responsive web applications.
